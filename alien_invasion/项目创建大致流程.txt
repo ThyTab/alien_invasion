@@ -1,0 +1,14 @@
+pygame核心模块：
+pygame.display:管理窗口与屏幕绘制
+pygame.event:处理用户输入事件（鼠标、键盘）
+pygame.image:加载的保存图像
+pygame.mixer:音效与背景音乐控制
+pygame.sprite:实现精灵（可移动对象）与碰撞检测
+
+
+
+
+（1）创建一个空的pygame窗口，控制游戏开始、结束与屏幕刷新，侦听键盘和鼠标事件
+（2）控制帧率
+（3）设置背景色            （创建settings模块用于更便捷地更改设置）
+（4）添加新元素
